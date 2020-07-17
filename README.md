@@ -18,12 +18,6 @@ I am a Final Year Computer Engineering Student at College of Engineering Chnegan
 <!--START_SECTION:waka-->
 ```text
 
-Python      8 hrs 48 mins       █████████████████░░░░░░░░   69.86 
-HTML/CSS    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 
-Javascript  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72 
-C/C++       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61 
-Flutter     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58
-
 ```
 <!--END_SECTION:waka-->
 -------
