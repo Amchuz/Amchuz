@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am a Final Year Computer Engineering Student at College of Engineering Chnegannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
 - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
