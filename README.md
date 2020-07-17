@@ -11,8 +11,17 @@ I am a Final Year Computer Engineering Student at College of Engineering Chnegan
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150/) | [Email](amchu1714@gmail.com) | [Twitter](https://twitter.com/PrifyPhilip)
 - ⚡ Quote: There is always time. You just have to find it.
+
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-
+Python      8 hrs 48 mins       █████████████████░░░░░░░░   69.86 
+Markdown    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 
+Go          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72 
+YAML        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.61 
+Docker      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58
 ```
 <!--END_SECTION:waka-->
+-------
