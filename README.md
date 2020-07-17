@@ -1,5 +1,6 @@
-
-![Nice to meet you](https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif)
+<p align="center">
+  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+</p>
 
 ### Hi there 👋
 
