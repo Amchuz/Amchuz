@@ -12,19 +12,4 @@ I am a Final Year Computer Engineering Student at College of Engineering Chnegan
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150/) | [Email](amchu1714@gmail.com) | [Twitter](https://twitter.com/PrifyPhilip)
 - ⚡ Quote: There is always time. You just have to find it.
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 <!--END_SECTION:waka-->
