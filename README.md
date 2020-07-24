@@ -52,7 +52,7 @@ Markdown   11 mins         █░░░░░░░░░░░░░░░░�
 | <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
 
   
-**My Favorites**
+**My Favorites** (Trying clicking them, there might be a suprise hidden among them.)
 
 | <img src=https://github.com/Amchuz/Amchuz/blob/master/python.jpg width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/bts.jpg width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/snsd.jpg width="85" height="85"> | <a href="https://www.youtube.com/watch?v=7C2z4GqqS5E" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/fake.jpg width="85" height="85"></a> | <img src=https://github.com/Amchuz/Amchuz/blob/master/fairy.jpg width="85" height="85"> | <a href="https://www.youtube.com/watch?v=IcseamG7ReY" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/wind.jpg width="85" height="85"></a> | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
