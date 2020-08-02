@@ -29,7 +29,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amchuz&show_icons=true&theme=highcontrast)](https://github.com/Amchuz/github-readme-stats) * * * * * * * * * *   ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amchuz&show_icons=true&theme=highcontrast)](https://github.com/Amchuz/github-readme-stats) * * *    ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)
 
   
   
