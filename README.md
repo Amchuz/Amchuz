@@ -29,7 +29,20 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amchuz&show_icons=true&theme=highcontrast)](https://github.com/Amchuz/github-readme-stats) * * *    ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+```
+<!--END_SECTION:waka-->
+-------
 
   
   
