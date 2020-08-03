@@ -1,20 +1,11 @@
+name: Generate README every 1 hour
 
-name: Update stats
-
-on:
+on: 
   schedule:
-    - cron: '0 * * * *'
+     - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
-  update-readme: 
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN}}
-          USERNAME: amchuz
    stuff:
     runs-on: ubuntu-latest
     steps:
@@ -33,11 +24,23 @@ jobs:
       - name: Add to git repo
         run: |
            git add .
-           git config --global user.name "Amchuz"
-           git config --global user.email "amchu1714@gmail.com"
+           git config --global user.name "mridul037"
+           git config --global user.email "mridulshukla037@gmail.com"
            git commit -m "[Magic] Automated Readme update"
         
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  update-readme: 
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+          USERNAME: amchuz
+
