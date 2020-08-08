@@ -48,7 +48,7 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
   
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/Coding.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/anime.jpg width="85" height="85"> | 
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.gif width="110" height="100"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/animeicon.gif width="110" height="100"> | 
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
 
