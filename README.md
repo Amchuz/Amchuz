@@ -25,6 +25,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 |---|---|---|---|---|---|
 
 ----
+### Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amchuz)](https://github.com/ryo-ma/github-profile-trophy)
 
