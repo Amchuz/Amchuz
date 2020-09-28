@@ -34,7 +34,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif">
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif" width="200" height="170">
  
 
 -------
