@@ -42,8 +42,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-HTML   6 mins          █████████████▓░░░░░░░░░░░   54.46 % 
-CSS    5 mins          ███████████▒░░░░░░░░░░░░░   45.54 % 
+Python   45 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
