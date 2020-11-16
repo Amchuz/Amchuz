@@ -42,7 +42,7 @@ Computer Engineering Graduate 2020. I love Machine Learning and trying to learn 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-C   29 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
