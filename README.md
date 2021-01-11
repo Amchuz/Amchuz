@@ -12,7 +12,7 @@
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
   
-Computer Engineering Graduate 2020. I love Machine Learning and trying to learn more about Full Stack Web Development and Cyber Security. 
+Computer Engineering Graduate 2020. I love ML and trying to learn more about Full Stack Web Development and Cyber Security. 
 
 - :hammer_and_wrench: I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
 - :books: I’m currently learning Data Science | Web development | App Development | Cyber Security
