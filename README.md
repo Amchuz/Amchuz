@@ -42,7 +42,7 @@ Computer Engineering Graduate 2020. I love ML and trying to learn more about Ful
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
