@@ -15,7 +15,8 @@
 Computer Engineering Graduate 2020. I love ML and trying to learn more about Full Stack Web Development and Cyber Security. 
 
 - :hammer_and_wrench: I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
-- :books: I’m currently learning Data Science | Web development | App Development | Cyber Security
+- :office: IBMer | Ex-TCSer
+- :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :question: Ask me about anything. I will try to help you as much as I can.
 - :microphone: Quote: "There is always time. You just have to find it."
