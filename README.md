@@ -6,7 +6,7 @@
   
 
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=Amchuz&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### Hello   <img src="https://github.com/Amchuz/Amchuz/blob/master/hello.gif" width="120px">
   
@@ -14,7 +14,7 @@
   
 Computer Engineering Graduate 2020. I love ML and trying to learn more about Full Stack Web Development and Cyber Security. 
 
-- :hammer_and_wrench: I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
+- :hammer_and_wrench: I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python. <img align="right" src="https://github.com/z/z/blob/master/animegirl.gif" width="200" height="170">
 - :office: IBMer | Ex-TCSer
 - :books: I’m currently learning Data Science | Web development | Machine Learning | Cloud
 - :handshake: I’m looking to collaborate on ML and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -28,7 +28,7 @@ Computer Engineering Graduate 2020. I love ML and trying to learn more about Ful
 ----
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amchuz)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amchuz)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
