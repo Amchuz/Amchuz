@@ -35,7 +35,8 @@ Computer Engineering Graduate 2020. I love ML and trying to learn more about Ful
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
   
-![Amchuz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=highcontrast)<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif" width="300" height="255">
+
+![Amchuz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&show_icons=true&theme=radical)
  
 
 -------
