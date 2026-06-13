@@ -57,7 +57,7 @@ No Activity tracked this Week
 | <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
 
   
-**Favorites of Favorites** (*Trying clicking them, there is a suprise hidden in one of them.*)
+**Favorites of Favorites** (*Trying clicking them, there are a suprises hidden in them.*)
 
 | <a href="https://www.youtube.com/watch?v=rfscVS0vtbw" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/python.gif width="85" height="85"></a> | <a href="https://www.youtube.com/watch?v=0lapF4DQPKQ" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/bts.gif width="85" height="85"></a> | <a href="https://www.youtube.com/watch?v=wq7ftOZBy0E" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/gg.gif width="85" height="90"></a> | <a href="https://www.youtube.com/watch?v=7C2z4GqqS5E" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/fl.gif width="90" height="85"></a> | <a href="https://www.youtube.com/watch?v=t3FyTOvPfVc" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/fairytail.gif width="100" height="85"></a> | <a href="https://www.youtube.com/watch?v=wzoIZO8WbI8" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/naruto.gif width="85" height="85"></a> | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
